@@ -1,5 +1,3 @@
-import random
-
 from graphics import *
 import random as rng
 import math
